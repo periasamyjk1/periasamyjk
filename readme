@@ -1,0 +1,11 @@
+Step 1 : Open the python application and enter the code.
+
+Step 2 : Install required dependencies: 
+
+	 pip install -r requirements.txt
+
+Step 3 : Adjust the needed parameter values.
+
+Step 4 : Finally execute the code.
+
+Step 5 : The output will display in terminal.
